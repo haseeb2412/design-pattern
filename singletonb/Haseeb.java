@@ -49,7 +49,7 @@ package singletonb;
 // for desirialization
 
 
-public public Haseeb implements Serializable {
+public class Haseeb implements Serializable {
     
     private static Haseeb haseeb;
     private Haseeb() {
